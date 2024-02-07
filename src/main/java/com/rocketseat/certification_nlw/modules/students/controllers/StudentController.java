@@ -1,7 +1,6 @@
 package com.rocketseat.certification_nlw.modules.students.controllers;
 
 import com.rocketseat.certification_nlw.modules.students.dto.VerifyIfHasCertificationDTO;
-import com.rocketseat.certification_nlw.modules.students.entities.StudentEntity;
 import com.rocketseat.certification_nlw.modules.students.services.VerifyIfHasCertificationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
